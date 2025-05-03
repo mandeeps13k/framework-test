@@ -1,0 +1,1 @@
+{"level":"error","message":"Failed to click element li[data-cy=\"oneWayTrip\"]: element click intercepted: Element <li data-cy=\"oneWayTrip\" class=\"selected\">...</li> is not clickable at point (229, 209). Other element would receive the click: <div class=\"imageSlideContainer\">...</div>\n  (Session info: chrome=136.0.7103.49)","timestamp":"2025-05-03T09:24:01.097Z"}

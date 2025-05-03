@@ -1,0 +1,14 @@
+{"level":"info","message":"Browser setup completed","timestamp":"2025-05-03T09:21:19.828Z"}
+{"level":"info","message":"Navigated to https://example.com","timestamp":"2025-05-03T09:21:20.652Z"}
+{"level":"info","message":"Got text 'Example Domain' from element h1","timestamp":"2025-05-03T09:21:20.704Z"}
+{"level":"info","message":"Page title: Example Domain","timestamp":"2025-05-03T09:21:20.704Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2025-05-03T09:21:20.761Z"}
+{"level":"info","message":"Browser setup completed","timestamp":"2025-05-03T09:22:27.016Z"}
+{"level":"info","message":"Navigated to https://example.com","timestamp":"2025-05-03T09:22:27.800Z"}
+{"level":"info","message":"Got text 'Example Domain' from element h1","timestamp":"2025-05-03T09:22:27.855Z"}
+{"level":"info","message":"Page title: Example Domain","timestamp":"2025-05-03T09:22:27.856Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2025-05-03T09:22:27.912Z"}
+{"level":"info","message":"Browser setup completed","timestamp":"2025-05-03T09:23:55.933Z"}
+{"level":"info","message":"Navigated to https://www.makemytrip.com/flights/","timestamp":"2025-05-03T09:23:56.425Z"}
+{"level":"error","message":"Failed to click element li[data-cy=\"oneWayTrip\"]: element click intercepted: Element <li data-cy=\"oneWayTrip\" class=\"selected\">...</li> is not clickable at point (229, 209). Other element would receive the click: <div class=\"imageSlideContainer\">...</div>\n  (Session info: chrome=136.0.7103.49)","timestamp":"2025-05-03T09:24:01.097Z"}
+{"level":"info","message":"Browser closed successfully","timestamp":"2025-05-03T09:24:01.154Z"}
